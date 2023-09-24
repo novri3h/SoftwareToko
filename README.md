@@ -8,7 +8,7 @@
 <div align="justify">Aplikasi ini merupakan perangkat lunak yang dirancang untuk dapat dijalankan tanpa perlu diinstal di sistem operasi komputer. Dalam kata lain, Anda dapat menggunakannya secara langsung dari perangkat penyimpanan eksternal seperti USB drive, kartu SD, atau hard drive eksternal tanpa perlu menginstalnya terlebih dahulu ke komputer target.</div>
 <br>
 
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif.studio)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/Delphi-SoftwareToko/graphs/commit-activity)
 
